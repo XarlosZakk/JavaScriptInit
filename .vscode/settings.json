@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.ignoreBracketedPasteMode": false,
+    "terminal.integrated.shellIntegration.environmentReporting": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+    "terminal.integrated.focusAfterRun": "none",
+    "debug.terminal.clearBeforeReusing": false,
+    "debug.javascript.terminalOptions": {
+        
+    }
+}

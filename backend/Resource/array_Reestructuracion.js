@@ -1,16 +1,9 @@
 // reestructuracion de array
-var a = 10;
-function cambiarValor(){
-    var a = 15;
-    return a;
+function nuevaFuncion(Numero1, numero2) {
+    let respuestaServidor = Numero1 + numero2;
+    return respuestaServidor
 }
 
-a = cambiarValor(a);
-console.log(a);
+//? canbios nuevos
+console.log("el resultado es: ", nuevaFuncion(10, 20));
 
-
-// respuestas:
-// 1) 10
-// 2) 15
-// 3) undefined
-// 4) Error
