@@ -25,5 +25,3 @@ totalCuentaCL = totalComidas + totalBebidas;
 console.log("el total de su cuenta comida es: " + totalComidas);
 console.log("el total de sus bebidas es: " + totalBebidas);
 console.log("El total de su cuentas es: " + totalCuentaCL);
-
-

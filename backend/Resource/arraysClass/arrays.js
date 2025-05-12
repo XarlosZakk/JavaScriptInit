@@ -59,3 +59,14 @@ console.log(firstPart.concat(secondPart));
 // Se pueden concatenar múltiples arrays e incluso mezclarlos con elementos sueltos
 firstPart.concat(firstPart, secondPart, 7);  // Devuelve [1, 2, 3, 1, 2, 3, 4, 5, 6, 7]
 console.log(firstPart.concat(firstPart, secondPart, 7));
+
+let valorNuevoUsar = 200;
+let valorNuevoUsar2 = 300;
+
+let result = valorNuevoUsar + valorNuevoUsar2;
+console.log(result);//? resultado a imprimir 
+
+
+// arrays de mas dimenciones 
+let arrayDimencion = [1,2,3,[1,2,3,["hello", "carlos", "maiz"],4],4,5,6];
+console.log(arrayDimencion[3][3][2]);
