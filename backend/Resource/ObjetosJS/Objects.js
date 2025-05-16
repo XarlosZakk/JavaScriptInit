@@ -32,3 +32,6 @@ Elfo.talk();     // Es una función (método), se ejecuta y devuelve "Hola"
 const objeto = {};
 objeto.toString();
 console.log(objeto.toString()); // Devuelve "[object Object]" 
+
+let neuvoValor = 'esto es una cadena de texto';
+console.log(neuvoValor);
