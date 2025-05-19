@@ -26,5 +26,5 @@ console.log(cadenaNew.toLowerCase());
 let cadenanueva = 'Estoy buscando esto'
 console.log(cadenanueva.indexOf('esto'));// esta en la pocision 15
 
-
-
+//metodo includes ==> verifica que exista
+console.log(cadenanueva.includes("buscando"));
