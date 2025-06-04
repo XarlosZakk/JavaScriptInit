@@ -31,3 +31,12 @@ const elementS = [5, 4, 3, 2];
 const [firsts, ...rests] = elements;  // first = 5, rest = [4, 3, 2]
 console.log(firsts, rests);//todo: agrupación de varios elementos individuales, en un array
 
+
+/*
+todo: paso por valor o por referencia
+valores primitivos ==> [strings, arrays, obj, class]
+
+
+
+investigar paso por valor y paso por referencia 
+ */

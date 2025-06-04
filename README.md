@@ -178,6 +178,7 @@ boton.addEventListener("click", () => {
 ## 🤝 Contribuir
 
 Si deseas contribuir a este proyecto, no dudes en enviar un Pull Request o abrir un Issue. ¡Toda contribución es bienvenida!
+virbulilla con alt + 126 ==> ~
 
 <div align="right">
   <sub>Creado con ❤️ por <strong>Carl's{Dev}</strong></sub>

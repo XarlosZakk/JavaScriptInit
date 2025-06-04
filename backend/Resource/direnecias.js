@@ -9,5 +9,5 @@ function doble(numero, doble) {
     doble = numero + numero
     console.log("el doble de " + numero + "es: " + doble)
 }
-
+console.log('cambios');
 console.log(doble(5))
